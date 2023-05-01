@@ -10,7 +10,10 @@
 
   align-items: center;
 }
-
+.container__content > a{
+width: 500px;
+padding: 10px 0;
+}
 .content__cover > img{
   border:5px solid rgb(144, 144, 144);
   border-radius: 5px;
